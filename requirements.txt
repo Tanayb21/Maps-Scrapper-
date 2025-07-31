@@ -2,4 +2,3 @@ streamlit
 selenium
 webdriver-manager
 pandas
-plotly
