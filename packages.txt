@@ -19,3 +19,4 @@ libxrandr2
 xdg-utils
 chromium
 chromium-driver
+plotly
