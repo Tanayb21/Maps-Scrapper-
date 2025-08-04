@@ -3,3 +3,4 @@ selenium
 webdriver-manager
 pandas
 plotly
+XlsxWriter
